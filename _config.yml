@@ -1,13 +1,20 @@
 #
-# This file contains configuration flags to customize your site
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Name of your site (displayed in the header)
+name: Jean Njoroge PhD
 
+# Short bio or description (displayed in the header)
 # Name of your site (displayed in the header)
 name: Jean Njoroge PhD
 
 # Short bio or description (displayed in the header)
 description:  |Inspire | Innovate | Inform |Imbibe | Improve
+# Flags below are optional
+#
+# specifies how many items should be displayed per page
+paginate: 10
+#
+# Flags below are optional
+
 # Flags below are optional
 #
 # specifies how many items should be displayed per page
