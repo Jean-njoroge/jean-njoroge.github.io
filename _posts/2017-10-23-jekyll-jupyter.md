@@ -1,7 +1,7 @@
 ---
-#layout: post
-#title: "jekyll-jupyte"
-#date: 2017-09-23
+layout: post
+title: "How is Machine Learning Applicable in Material Science?"
+date: 2017-09-23
 ---
 
 
