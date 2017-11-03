@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Beauty of Science"
-date: 2017-09-23
+date: 2017-10-23
 ---
 I draw inspiration from creativity in science, and the ability to take and manipulate the science to benefit society.
 I also draw creativity from great leaders of our times. Phil Jackson, he brought Zen into the chaotic environment, Colin Powel, Madeline Albirght (God knows I want to meet her).
