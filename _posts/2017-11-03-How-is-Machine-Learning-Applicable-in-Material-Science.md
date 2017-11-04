@@ -12,7 +12,7 @@ Propelled by [Materials Genome Initiative](https://www.mgi.gov/) ; algorithmic d
 
 Machine learning is a method of automating analytical model building, using algorithms that iteratively learn from data. This allows computers to find hidden insights without being explicitly programmed. Much has been written about machine learning and how our daily activities; web searches, credit scoring, fraud detection, and text analysis amongst others influenced by this field. In material science, the infinite goal is finding new materials with good performance. In material science, machine learning has been used in areas such as new materials discovery and material property prediction. 
 ![alt text][ml-process]
-[logo]:
+[logo]:https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/images/ml-process.png
 Regardless of problem under study, a criterion for machine learning is existence of past data, either clean, curated and reliable data corresponding to the problem under study should already be available, or an effort is in place for the creation of the data.
 Basic steps of machine learning in material science, involves three steps, sample generation, module building and model evaluations (pic).
 * **Sample construction:** raw data is collected from computational simulations and experimental measurements. Mostly, data is incomplete, noisy and inconsistent, hence, data cleaning should be performed when constructing a sample from raw data. 
