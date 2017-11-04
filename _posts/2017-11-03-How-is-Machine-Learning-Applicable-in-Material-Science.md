@@ -14,7 +14,7 @@ Machine learning automates analytical model building, using algorithms that iter
  In material science, machine learning is critical in areas such as new materials discovery and material property prediction. For example, in an experiment on predicting the glass transition temperature Tg it is difficult to find a formula that can accurately describe the relationship between Tg and the four relevant factors of rigidness, chain mobility, average molecular polarizability and net charge; however, a machine learning method can be used to model the relationships between conditional factors and decision attributes based on a given sample. This is where machine learning plays a role and where the “core” algorithms lie. The knowledge obtained through machine learning is stored in a format that is readily usable and, in turn, can be used for materials discovery and design. 
 
 ### Basic Steps of Machine learning in Material Science
-Regardless of problem under study, a criterion for machine learning is existence of past data, either clean, curated and reliable data corresponding to the problem under study should already be available, or an effort is in place for the creation of the data. Basic steps of machine learning in material science, involves three steps, sample generation, module building and model evaluations
+Basic steps of machine learning in material science, involves three steps, sample generation, module building and model evaluations
 
 ![GitHub Logo](/images/ml-process.png)
 Format: ![Alt Text](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
