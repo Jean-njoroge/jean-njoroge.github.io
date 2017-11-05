@@ -21,7 +21,7 @@ Machine learning automates analytical model building, using algorithms that iter
 ### Basic Steps of Machine learning in Material Science
 Basic steps of machine learning in material science, involves three steps, sample generation, module building and model evaluations
 
-![GitHub Logo](/images/ml-process.png)
+![general process of machine learning in materials science ](/images/ml-process.png)
 Format: ![Alt Text](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
 * **Sample construction:** raw data is collected from computational simulations and experimental measurements. Mostly, data is incomplete, noisy and inconsistent, hence, data cleaning should be performed when constructing a sample from raw data. 
