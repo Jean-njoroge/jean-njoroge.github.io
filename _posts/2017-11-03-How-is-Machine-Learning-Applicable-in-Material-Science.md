@@ -51,5 +51,5 @@ The materials science community is just beginning to explore and utilize the ple
 ### References:
 
 *	Yu et.al. Material discovery and design using machine learning. J. Materiomics 3 (2017) 159- 177
-*	Ramprasad et.al., Machine Learning and Materials Informatics: Recent Applications and Prospects
+*	Ramprasad et.al., Machine Learning and Materials Informatics: Recent Applications and Prospects. https://arxiv.org/abs/1707.07294
 
