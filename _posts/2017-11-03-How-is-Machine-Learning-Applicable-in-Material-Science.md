@@ -37,7 +37,7 @@ Given a {materials → property} dataset, what is the best estimate of the prope
 An approach to understanding this problem, is to first represent numerically the various input cases (or materials) in the dataset. Each input case would have been reduced to a string of numbers, it is important to emphasize this step, because this is where one requires significant expertise and knowledge of the materials class and the application (‘domain expertise”).
 
 ![GitHub Logo](/images/property-prediction.png)
-Format: ![Alt Text](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
+Format: ![property predicition application of machine learning in materials science.](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
 The second step establishes a mapping between the features and the target property, and is entirely numerical in nature, largely devoid of the need for domain knowledge. Both the fingerprinting and mapping/learning steps are schematically.
 Several algorithms, ranging from simple (e.g., linear regression) to highly sophisticated (kernel ridge 4 regression, decision trees, deep neural networks), are available to establish this mapping and the creation of surrogate prediction models. While some algorithms provide actual functional forms that relate input to output (e.g., regression), others do not (e.g., decision trees). 
