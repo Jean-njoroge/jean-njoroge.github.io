@@ -8,4 +8,4 @@ Experienced Data Scientist with a demonstrated history of working both in the hi
 
 Analyzing and interpreting complex datasets makes me happy, and I am known for being flexible, resourceful, and for achieving goals while maintaining a positive outlook. I work effectively in both independent and collaborative environments and excel at communicating with diverse collaborators.
 
-#### My resume highlighting data science skills [CV]({{ site.baseurl }}/pdfs/Jean Njoroge-Resume.pdf).
+#### My resume highlighting data science skills [CV]({{ site.baseurl }}/pd/Jean Njoroge-Resume.pdf).
