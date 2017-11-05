@@ -27,3 +27,27 @@ Format: ![Alt Text](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/
 * **Sample construction:** raw data is collected from computational simulations and experimental measurements. Mostly, data is incomplete, noisy and inconsistent, hence, data cleaning should be performed when constructing a sample from raw data. 
 * **Model building**: input data is linked to output data using a set of nonlinear or linear functions. in materials science, complex relationships usually exist between the conditional factors and the target attributes, which traditional methods have difficulty handling. 
 * **Model evaluations**: A data-driven model should achieve good performance not only on existing data but also on unseen data. Generally, we can evaluate the generalization errors of models by means of calculation-based tests and use the results to select the best one. 
+
+### Machine learning and material property predication
+Regardless of problem under study, a criterion for machine learning is existence of past data, either clean, curated and reliable data corresponding to the problem under study should already be available, or an effort is in place for the creation of the data.
+
+In material science, a machine learning framework for predicting material properties, includes a dataset with attributes relating to a variety of materials that fall within a  chemical class of interest, and a relevant measured or computed property of those materials i.e., the material, is referred to as “input”, and the property of interest, is referred to as the “target” or “output.”   learning problem is then defined as follows: 
+Given a {materials → property} dataset, what is the best estimate of the property for a new material not in the original dataset?
+
+An approach to understanding this problem, is to first represent numerically the various input cases (or materials) in the dataset. Each input case would have been reduced to a string of numbers, it is important to emphasize this step, because this is where one requires significant expertise and knowledge of the materials class and the application (‘domain expertise”).
+![GitHub Logo](/images/property-prediction.png)
+Format: ![Alt Text](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
+The second step establishes a mapping between the features and the target property, and is entirely numerical in nature, largely devoid of the need for domain knowledge. Both the fingerprinting and mapping/learning steps are schematically.
+Several algorithms, ranging from simple (e.g., linear regression) to highly sophisticated (kernel ridge 4 regression, decision trees, deep neural networks), are available to establish this mapping and the creation of surrogate prediction models. While some algorithms provide actual functional forms that relate input to output (e.g., regression), others do not (e.g., decision trees). 
+
+In this discussion, the assumption is that the target property is a continuous quantity (e.g., bulk modulus, band gap, melting temperature, etc.). Problems can also involve discrete targets (e.g., crystal structure, specific structural motifs, etc.), which are referred to as classification problems.  Throughout the machine learning process, it is essential to adhere to rigorous statistical practices. Central to this is the notion of cross-validation and testing on unseen data, which attempt to ensure that a learning model developed based on the original dataset can truly handle a new case without falling prey to the perils of “overfitting”.
+
+### Conclusions
+
+The materials science community is just beginning to explore and utilize the plethora of available information theoretic algorithms to mine and learn from data. Machine learning should be viewed as the sum total of the organized creation of the initial dataset, the fingerprinting and learning steps, and a necessary subsequent step (discussed at the end of this article) of progressive and targeted new data infusion, ultimately leading to an expert recommendation system that can continuously and adaptively improve.
+
+### References:
+
+•	Yu et.al. Material discovery and design using machine learning. J. Materiomics 3 (2017) 159- 177
+•	Ramprasad et.al., Machine Learning and Materials Informatics: Recent Applications and Prospects
+
