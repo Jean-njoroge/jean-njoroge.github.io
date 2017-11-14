@@ -16,9 +16,8 @@ Data science is ubiquitous to advanced statistical and machine learning techniqu
 1. By verifying that the expected relationships actually exist in the data, thereby validating the planned techniques of analysis. 
 2. By finding some unexpected structure in the data that must be taken into account, thereby suggesting some changes in the planned analysis. 
 3. Benefits business stakeholders by confirming they are asking the right questions and not biasing the investigation with their assumptions, as well as by providing the context around the problem to make sure the potential value of the data scientist’s output can be maximized.
-
-                        ![EDA-Process ](/images/edaprocess.png)
-                    ![EDA Process](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
+![EDA-Process ](/images/edaprocess.png)
+![EDA Process](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
 ### What is Exploratory Data Analysis (EDA)?
 As long as there is data to analyze, the need to explore is obvious.  The phrase EDA, was coined/defined by John W. Tukey in 1977. Indeed, he reenergized descriptive statistics through EDA and changed the language and paradigm of statistics in doing so. What, I find intriguing is that it is hard, if not impossible, to find a precise definition of EDA in Tukey’s writings. Which, is not a surprise, because he preferred working with vague concepts, things that could be made precise in several ways. He introduced EDA, but describing its characteristics and creating novel tools.  You will find various descriptions of EDA in his work, for example.
