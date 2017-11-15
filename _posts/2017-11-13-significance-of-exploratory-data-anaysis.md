@@ -32,7 +32,7 @@ At a high level, EDA is the practice of describing the data by means of statisti
 ### EDA Methods
 EDA is generally cross-classified in two ways. First, each method is either non-graphical or graphical. And second, each method is either univariate or multivariate (usually just bivariate). Non-graphical methods generally involve calculation of summary statistics, while graphical methods obviously summarize the data in a diagrammatic or pictorial way. 
 
-![EDA methods ](/images/eda_methods.png)
+![EDA methods ](/images/edamethods.png)
 ![EDA methods](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
 * Univariate methods (graphical and non-graphical) look at one variable (data column) at a time, 
