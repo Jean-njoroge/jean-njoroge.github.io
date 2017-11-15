@@ -14,17 +14,15 @@ Data science is ubiquitous to advanced statistical and machine learning techniqu
 
 At a high level, EDA is the practice of describing the data by means of statistical and visualization techniques to bring important aspects of that data into focus for further analysis. This involves looking at your data set from many angles, describing it, and summarizing it without making any assumptions about its contents. This is a significant step to take before diving into machine learning or statistical modeling, to make sure the data are really what they are claimed to be and that there are no obvious problems. 
 
-> *“Exploratory data analysis isolates patterns and features of the data and reveals these forcefully to the analyst.” (Hoaglin, Mosteller, & Tukey, 1983, p. 1)*
+![EDA-Process](/images/edaprocess.png)
+![EDA-Process:source Wikipedia](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
 A good data exploration is a preamble to the formal analysis in various ways:
 1. By verifying that the expected relationships actually exist in the data, thereby validating the planned techniques of analysis. 
 2. By finding some unexpected structure in the data that must be taken into account, thereby suggesting some changes in the planned analysis. 
 3. Benefits business stakeholders by confirming they are asking the right questions and not biasing the investigation with their assumptions, as well as by providing the context around the problem to make sure the potential value of the data scientist’s output can be maximized.
  
-
-![EDA-Process](/images/edaprocess.png)
-![EDA-Process:source Wikipedia](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
-
+ 
  The phrase exploratory data analysis, was coined by John W. Tukey in 1977.  What, is interesting, is that even though he coined the phrase, it is difficult, if not impossible, to find a precise definition of EDA in Tukey’s writings, partly because he preferred working with vague concepts, things that could be made precise in several ways. As such there are various descriptions of EDA in his work, for example.
 
 > *“If we need a short suggestion of what exploratory data analysis is, I would suggest that: 1. it is an attitude, AND 2. a flexibility, AND 3. some graph paper (or transparencies, or both).” (Jones, 1986, Vol. IV, p. 815).*
