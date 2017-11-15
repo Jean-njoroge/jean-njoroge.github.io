@@ -18,12 +18,11 @@ A good data exploration is a preamble to the formal analysis in various ways:
 2. By finding some unexpected structure in the data that must be taken into account, thereby suggesting some changes in the planned analysis. 
 3. Benefits business stakeholders by confirming they are asking the right questions and not biasing the investigation with their assumptions, as well as by providing the context around the problem to make sure the potential value of the data scientist’s output can be maximized.
 
-![EDA-Process ](/images/edaprocess.png)
+### What is Exploratory Data Analysis (EDA)?
 
+![EDA-Process ](/images/edaprocess.png)
 ![EDA Process:source Wikipedia](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
-
-### What is Exploratory Data Analysis (EDA)?
 As long as there is data to analyze, the need to explore is obvious. The phrase exploratory data analysis, was coined by John W. Tukey in 1977.  What, is interesting, is that even though he coined the phrase, it is difficult, if not impossible, to find a precise definition of EDA in Tukey’s writings, partly because he preferred working with vague concepts, things that could be made precise in several ways. As such there are various descriptions of EDA in his work, for example.
 
 > *“If we need a short suggestion of what exploratory data analysis is, I would suggest that: 1. it is an attitude, AND 2. a flexibility, AND 3. some graph paper (or transparencies, or both).” (Jones, 1986, Vol. IV, p. 815).*
