@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Significance of Exploratory Data Analysis (EDA)"
+title: "Significance of Exploratory Data Analysis"
 date: 2017-11-13
 tags:
 - machine learning
@@ -9,9 +9,7 @@ tags:
 - univariate analysis
 - bivariant analysis
 ---
-In this post, I look at  what EDA entails, describe ways in which EDA is essential in both exploratory and predictive modeling. 
-
-> *“Exploratory data analysis isolates patterns and features of the data and reveals these forcefully to the analyst.” (Hoaglin, Mosteller, & Tukey, 1983, p. 1)*
+In this post, I look at a high level of what EDA entails, describe ways in which EDA is essential in both exploratory and predictive modeling. As I continue learning and updating my DS skills, I hope that this post will spark your curiosity as you know why EDA should be part of the way data science operates in your organization.
 
 ### Introduction
 Data science is ubiquitous to advanced statistical and machine learning techniques. Yet, an important key component to any data science endeavor frequently undervalued or forgotten: exploratory data analysis (EDA). It is a crucial step to take before diving into machine learning or statistical modeling to make sure that the data are really what they are claimed to be and that there are no obvious problems. But good exploration also prepares you for the formal analysis in various ways:
