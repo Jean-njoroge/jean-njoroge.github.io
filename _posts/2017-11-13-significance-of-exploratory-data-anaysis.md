@@ -29,15 +29,17 @@ A good data exploration is a preamble to the formal analysis in various ways:
 3. Benefits business stakeholders by confirming they are asking the right questions and not biasing the investigation with their assumptions, as well as by providing the context around the problem to make sure the potential value of the data scientist’s output can be maximized.
 
 
-### EDA Methods
+## EDA Methods
 EDA is generally cross-classified in two ways. First, each method is either non-graphical or graphical. And second, each method is either univariate or multivariate (usually just bivariate). Non-graphical methods generally involve calculation of summary statistics, while graphical methods obviously summarize the data in a diagrammatic or pictorial way. 
 
 ![EDA methods ](/images/edamethods.png)
 ![EDA methods](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
-## Other Exploratory Methods
-* Dimensionality reduction to understand the fields in the data that account for the most variance between observations and allow for the processing of a reduced volume of data
-* Cluster analysis is an exploratory data analysis tool for organizing observed data or cases into similar observations in the dataset into differentiated groupings, which by collapsing the data into a few small data points, patterns of behavior can be more easily identified (see figure 4)
+In addition to the above methods, other exploratory methods include: 
+
+* **Dimensionality reduction:** reduces the number of variables to a few interpretable linear combinations of the data making it easier to understand the fields in the data that account for the most variance between observations and allow for the processing of a reduced volume of data.
+* **Cluster analysis:** organizes observed data into similar observations in the dataset into differentiated clusters (groups, which allows for easy identification of patterns of behavior.
+
 
 ## Conclusion
 In this post, I look at a high level of what EDA entails, describe ways in which EDA is essential in both exploratory and predictive modeling. 
