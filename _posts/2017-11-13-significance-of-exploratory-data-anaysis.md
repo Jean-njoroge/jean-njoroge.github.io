@@ -14,8 +14,9 @@ Data science is ubiquitous to advanced statistical and machine learning techniqu
 
 At a high level, EDA is the practice of describing the data by means of statistical and visualization techniques to bring important aspects of that data into focus for further analysis. This involves looking at your data set from many angles, describing it, and summarizing it without making any assumptions about its contents. This is a significant step to take before diving into machine learning or statistical modeling, to make sure the data are really what they are claimed to be and that there are no obvious problems. 
 
-![EDA methods]images/edaprocess.png
+![EDA methods](images/edaprocess.png)
 ![EDA-Process:source Wikipedia](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
+
 
 A good data exploration is a preamble to the formal analysis in various ways:
 1. By verifying that the expected relationships actually exist in the data, thereby validating the planned techniques of analysis. 
