@@ -11,6 +11,7 @@ tags:
 ---
 Data science is ubiquitous to advanced statistical and machine learning techniques. As long as there is data to analyze, the need to explore is obvious.Yet, an important key component to any data science task frequently undervalued is the exploratory data analysis (EDA). 
 
+
 At a high level, EDA is the practice of describing the data by means of statistical and visualization techniques to bring important aspects of that data into focus for further analysis. This involves looking at your data set from many angles, describing it, and summarizing it without making any assumptions about its contents. This is a significant step to take before diving into machine learning or statistical modeling, to make sure the data are really what they are claimed to be and that there are no obvious problems. 
 
 > *“Exploratory data analysis isolates patterns and features of the data and reveals these forcefully to the analyst.” (Hoaglin, Mosteller, & Tukey, 1983, p. 1)*
