@@ -20,7 +20,8 @@ Data science is ubiquitous to advanced statistical and machine learning techniqu
 3. Benefits business stakeholders by confirming they are asking the right questions and not biasing the investigation with their assumptions, as well as by providing the context around the problem to make sure the potential value of the data scientist’s output can be maximized.
 
 ![EDA-Process ](/images/edaprocess.png)
-![EDA Process](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
+
+![EDA Process:source Wikipedia](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
 
 ### What is Exploratory Data Analysis (EDA)?
