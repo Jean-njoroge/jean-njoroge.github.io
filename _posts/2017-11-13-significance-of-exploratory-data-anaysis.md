@@ -23,7 +23,7 @@ Data science is ubiquitous to advanced statistical and machine learning techniqu
 
 
 ### What is Exploratory Data Analysis (EDA)?
-As long as there is data to analyze, the need to explore is obvious.  The phrase EDA, was coined/defined by John W. Tukey in 1977. Indeed, he reenergized descriptive statistics through EDA and changed the language and paradigm of statistics in doing so. What, I find intriguing is that it is hard, if not impossible, to find a precise definition of EDA in Tukey’s writings. Which, is not a surprise, because he preferred working with vague concepts, things that could be made precise in several ways. He introduced EDA, but describing its characteristics and creating novel tools.  You will find various descriptions of EDA in his work, for example.
+As long as there is data to analyze, the need to explore is obvious. The phrase exploratory data analysis, was coined by John W. Tukey in 1977.  What, is interesting, is that even though he coined the phrase, it is difficult, if not impossible, to find a precise definition of EDA in Tukey’s writings, partly because he preferred working with vague concepts, things that could be made precise in several ways. As such there are various descriptions of EDA in his work, for example.
 
 > *“If we need a short suggestion of what exploratory data analysis is, I would suggest that: 1. it is an attitude, AND 2. a flexibility, AND 3. some graph paper (or transparencies, or both).” (Jones, 1986, Vol. IV, p. 815).*
 
