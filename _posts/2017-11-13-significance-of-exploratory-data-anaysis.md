@@ -16,7 +16,7 @@ At a high level, EDA is the practice of describing the data by means of statisti
 
 ![EDA methods](/images/edaprocess.png)
 
-*![EDA-Process:source Wikipedia](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
+![*EDA-Process:source Wikipedia*](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
 
 A good data exploration is a preamble to the formal analysis in various ways:
