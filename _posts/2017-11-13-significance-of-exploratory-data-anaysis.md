@@ -35,7 +35,7 @@ EDA is generally cross-classified in two ways. First, each method is either non-
 ![EDA methods ](/images/edamethods.png)
 ![EDA methods](https://github.com/Jean-njoroge/jean-njoroge.github.io/tree/master/)
 
-In addition to the above methods, other exploratory methods include: 
+In addition to the above methods, other exploratory data analysis methods include: 
 
 * **Dimensionality reduction:** reduces the number of variables to a few interpretable linear combinations of the data making it easier to understand the fields in the data that account for the most variance between observations and allow for the processing of a reduced volume of data.
 * **Cluster analysis:** organizes observed data into similar observations in the dataset into differentiated clusters (groups, which allows for easy identification of patterns of behavior.
