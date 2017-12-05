@@ -41,6 +41,10 @@ In addition to the above methods, other exploratory data analysis methods includ
 * **Dimensionality reduction:** reduces the number of variables to a few interpretable linear combinations of the data making it easier to understand the fields in the data that account for the most variance between observations and allow for the processing of a reduced volume of data.
 * **Cluster analysis:** organizes observed data into similar observations in the dataset into differentiated clusters (groups, which allows for easy identification of patterns of behavior.
 
+## Code
+Here please find code on the EDA for the dataset on Breast Cancer here [ipython](https://github.com/Jean-njoroge/Breast-cancer-risk-prediction/blob/master/NB2_ExploratoryDataAnalysis.ipynb)
+
+
 
 ## Conclusion
 In this post, I look at a high level of what EDA entails, describe ways in which EDA is essential in both exploratory and predictive modeling. 
