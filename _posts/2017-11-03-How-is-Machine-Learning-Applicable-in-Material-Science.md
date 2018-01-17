@@ -28,7 +28,7 @@ Basic steps of machine learning in material science, involves three steps, sampl
 * **Model building**: input data is linked to output data using a set of nonlinear or linear functions. in materials science, complex relationships usually exist between the conditional factors and the target attributes, which traditional methods have difficulty handling. 
 * **Model evaluations**: A data-driven model should achieve good performance not only on existing data but also on unseen data. Generally, we can evaluate the generalization errors of models by means of calculation-based tests and use the results to select the best one. 
 
-### Machine learning and material property prediction
+### Machine Learning and Material Property Prediction
 Regardless of the problem under study, a criterion for machine learning is existence of past data, either clean, curated and reliable data corresponding to the problem under study should already be available, or an effort is in place for the creation of the data.
 
 In material science, a machine learning framework for predicting material properties, includes a dataset with attributes relating to a variety of materials that fall within a  chemical class of interest, and a relevant measured or computed property of those materials i.e., the material, is referred to as “input”, and the property of interest, is referred to as the “target” or “output.”  Thus, the learning problem is then defined as follows: 
