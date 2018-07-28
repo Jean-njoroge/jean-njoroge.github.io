@@ -30,7 +30,7 @@ Under what circumstances does one need to use ensemble methods? You may ask! Alt
 * **Minimize error**: main cause of error in machine learning, are due to noise, bias and variance. Ensemble methods helps to minimize these errors. The methods are designed to improve the stability and accuracy of machine learning algorithms. Combination of multiple classifiers decrease variance, especially in the case of unstable classifier and may produce a more reliable classifier than a single classifier. 
 o	Let’s recap on the different types of errors
     * Bias error quantifies how much on an average are the predicted values different from the actual value. A high bias error means we have an under-performing model which keeps on missing important trends.
-    * Variance quantifies how are the prediction made on same observation different from each other. A high variance model will over-fit on your training population and perform badly on any observation beyond training. Thus, failing to generalize model on any unseen data. Following diagram will give you more clarity (Assume that red spot is the real value and blue dots are predictions):
+    * Variance quantifies how the prediction made on same observation differ from each other. A high variance model will over-fit on your training population and perform badly on any observation beyond training. Thus, failing to generalize model on any unseen data. 
 
 ### Ensemble Approaches {Next Post]
 In next post, I want to explore some examples for increasing classification accuracy using ensemble learning approaches, bagging, boosting and stacking, which all leverage a crowd of experts. The objective is to improve accuracy by decreasing variance (bagging), bias(boosting), or improve predictions(stacking).
