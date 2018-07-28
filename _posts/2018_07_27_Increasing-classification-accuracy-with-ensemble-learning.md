@@ -11,7 +11,9 @@ tags:
 - stacking
 ---
 Increasing Classification Accuracy Using Ensemble Learning Methods
+
 What is An Ensemble Learning Method?
+
 Ensemble is a machine learning concept that combines multiple learning algorithms. Each of which solves the same original task, to obtain a better combined model, with more accurate and reliable estimates or decisions than can be obtained from using a single model. Given a complex classification problem as is often in many industrial challenges -- from investment timing to drug discovery, and fraud detection to recommendation systems, different approaches are applied to the classification problem. However, while in search for a viable solution, various algorithms are applied, sometimes none of them are better than the rest. In such instances, one can elect to keep them all and then select the final classifier, by combining the individual classifiers. 
 
 How then is the combination achieved? As a quick answer, I can take the average, or I can apply the different ways of making the most out of my sub-classifiers.  This is the idea behind ensemble learning. Divide the decision amongst several classifiers to arrive to a more accurate or representative decision - divide-and-conquer technique of the machine learning world.
