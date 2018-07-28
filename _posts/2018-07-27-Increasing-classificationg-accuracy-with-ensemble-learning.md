@@ -31,5 +31,5 @@ o	Let’s recap on the different types of errors
     * Variance quantifies how are the prediction made on same observation different from each other. A high variance model will over-fit on your training population and perform badly on any observation beyond training. Thus, failing to generalize model on any unseen data. Following diagram will give you more clarity (Assume that red spot is the real value and blue dots are predictions):
 
 ### Ensemble Approaches {Next Post]
-In next post, I want to explore some examples for increasing classification accuracy using ensemble learning approaches, bagging, boosting and stacking, which all leverage a crowd of experts... The objective is to improve accuracy by decreasing variance (bagging), bias(boosting), or improve predictions(stacking).
+In next post, I want to explore some examples for increasing classification accuracy using ensemble learning approaches, bagging, boosting and stacking, which all leverage a crowd of experts. The objective is to improve accuracy by decreasing variance (bagging), bias(boosting), or improve predictions(stacking).
 
