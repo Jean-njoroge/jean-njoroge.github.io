@@ -16,7 +16,7 @@ Ensemble learning is a machine learning concept that combines multiple learning 
 
 As a quick answer, I can take the average, or I can apply the different ways of making the most out of my sub-classifiers.  This is the idea behind ensemble learning. Divide the decision amongst several classifiers to arrive to a more accurate or representative decision - divide-and-conquer technique of the machine learning world.
 
-Ensemble machine learning methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms.
+> Ensemble machine learning methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms.
 Ensembles techniques are based on algorithms, some of which are simple and less computational intensive, while others are quite complex and more computation intensive. In any production environment, both accuracy and computation time are important. Thus, in most instances, data scientist need to make compromise between accuracy and time. This compromise is achieved by combining many weak learners to gain a confidence index out of them, which is essential in implementing such a system for real-time application with very high accuracy. The figure below shows the basic architecture of and framework:
 
 ### Why use ensemble methods?
