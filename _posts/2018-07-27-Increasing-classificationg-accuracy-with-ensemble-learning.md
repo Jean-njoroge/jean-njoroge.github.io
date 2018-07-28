@@ -10,11 +10,9 @@ tags:
 - boosting
 - stacking
 ---
-Ensemble learning is a machine learning concept that combines multiple learning algorithms. Each of which solves the same original task, to obtain a better combined model, with more accurate and reliable estimates or decisions than can be obtained from using a single model. 
+Given a complex classification problem as is often in many industrial challenges -- from investment timing to drug discovery, and fraud detection to recommendation systems, different approaches are applied to the classification problem. However, while in search for a viable solution, various algorithms are applied, sometimes none of them are better than the rest. In such instances, one can elect to keep them all and then select the final classifier, by combining the individual classifiers. The combination of different classifiers to improve predictive accuracy is often referred to as ensemble learning. Ensemble learning is a machine learning concept that combines multiple learning algorithms. Each of which solves the same original task, to obtain a better combined model, with more accurate and reliable estimates or decisions than can be obtained from using a single model. 
 
 ![Ensemble learning architeceture](/images/ensemble-learning.png) 
-
-Given a complex classification problem as is often in many industrial challenges -- from investment timing to drug discovery, and fraud detection to recommendation systems, different approaches are applied to the classification problem. However, while in search for a viable solution, various algorithms are applied, sometimes none of them are better than the rest. In such instances, one can elect to keep them all and then select the final classifier, by combining the individual classifiers. 
 
 ### How then is the combination achieved? 
 
