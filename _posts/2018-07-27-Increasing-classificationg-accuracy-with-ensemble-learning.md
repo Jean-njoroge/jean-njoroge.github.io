@@ -20,9 +20,8 @@ As a quick answer, I can take the average, or I can apply the different ways of 
 
 Ensembles techniques are based on algorithms, some of which are simple and less computational intensive, while others are quite complex and more computation intensive. In any production environment, both accuracy and computation time are important. Thus, in most instances, data scientist need to make compromise between accuracy and time. This compromise is achieved by combining many weak learners to gain a confidence index out of them, which is essential in implementing such a system for real-time application with very high accuracy. The figure below shows the basic architecture of and framework:
 
-
 ![Ensemble learning architeceture](/images/ensemble-learning.png) 
-![general process of machine learning in materials science ](/images/ensemble-learning.png)
+
 ### Why use ensemble methods?
 Under what circumstances does one need to use ensemble methods? You may ask! Although one would argue that there are various reasons of why, more or less thinking outside the box, here I outline some of the general reasons to use ensemble learning, some of which are:
  * **Large dataset**: It is challenging to train a large data set using a single model, in such instances a data scientist will create a small subset of data to train different models, and eventually choose the average of all as the final prediction.
