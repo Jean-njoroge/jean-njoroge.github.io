@@ -32,8 +32,7 @@ Under what circumstances does one need to use ensemble methods? You may ask! Alt
  * **Small data set**:  Similarly, a dataset is too small to train a single model in such instances a data scientist will use bootstrap methods to create random subsamples of data to train the models.
  * **Complex (nonlinear) data**:  real-world datasets are nonlinear, where a single model cannot define the class boundary clearly. This is known as under-fitting of the model. In such cases, a data scientist uses more than one model to train different subsets of the data and average out the result at the end to predict distinct boundaries.
 * **Minimize error**: main cause of error in machine learning, are due to noise, bias and variance. Ensemble methods helps to minimize these errors. The methods are designed to improve the stability and accuracy of machine learning algorithms. Combination of multiple classifiers decrease variance, especially in the case of unstable classifier and may produce a more reliable classifier than a single classifier. 
-
- Let’s recap on the different types of errors
+Let’s recap on the different types of errors
     * Bias error quantifies how much on an average are the predicted values different from the actual value. A high bias error means we have an under-performing model which keeps on missing important trends.
     * Variance quantifies how the prediction made on same observation differ from each other. A high variance model will over-fit on your training population and perform badly on any observation beyond training. Thus, failing to generalize model on any unseen data. 
 
