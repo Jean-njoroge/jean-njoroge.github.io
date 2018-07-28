@@ -22,6 +22,7 @@ Ensembles techniques are based on algorithms, some of which are simple and less 
 
 
 ![Ensemble learning architeceture](/images/ensemble-learning.png)
+![general process of machine learning in materials science ](/images/ml-process.png)
 ### Why use ensemble methods?
 Under what circumstances does one need to use ensemble methods? You may ask! Although one would argue that there are various reasons of why, more or less thinking outside the box, here I outline some of the general reasons to use ensemble learning, some of which are:
  * **Large dataset**: It is challenging to train a large data set using a single model, in such instances a data scientist will create a small subset of data to train different models, and eventually choose the average of all as the final prediction.
