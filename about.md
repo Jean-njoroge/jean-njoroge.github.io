@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Experienced Data Scientist with a demonstrated history of working both in the higher education industry and for a fortune 500 company. Skilled in using analytical tools (Python, R, SQL) and techniques (Machine learning, Natural language processing, and data mining) to answer interesting questions. Proven ability to think critically with an innate ability to ask insightful questions to map data-driven solutions. Strong research professional with a Doctor of Philosophy (Ph.D.) focused on Computational Material Science and Engineering from Texas A&M University.
+I am innately a problem-solver, with a PhD in Computational Material Science (Nanotechnology) by training, innovation and technology enthusiastic by heart; I thrive at the intersection of science, technology and big data with a focus to delivery innovation to life product and solutions and significant impact in life's quality of people. Over the past 10 years, I have held roles across industries including; technology commercialization, manufacturing, and data science.
+I strongly believe that Machine Learning and Artificial intelligence will have a significant change in our society and the more people who understand and engage with Machine learning and Artificial intelligence the less there is to fear.
 
-Analyzing and interpreting complex datasets makes me happy, and I am known for being flexible, resourceful, and for achieving goals while maintaining a positive outlook. I work effectively in both independent and collaborative environments and excel at communicating with diverse collaborators.
 
 #### My resume highlighting data science skills [CV]({{ site.baseurl }}/pd/Jean Njoroge-Resume.pdf).
