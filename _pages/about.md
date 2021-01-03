@@ -8,7 +8,7 @@ toc: true
 toc_label: "Table of Contents"
 comments: false
 ---
-
+Passionate about harnessing Artificial Intelligence and the intersection of Science, Technology and Policy
 ### Experience
   * **Global lead Data Scientist**, [Dell Technologies](https://www.delltechnologies.com/en-), 2020 - present
   * **Data Science Fellow**, [Insight Data Science](https://www.insightdatascience.com/), 2017
