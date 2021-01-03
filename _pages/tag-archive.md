@@ -1,3 +1,8 @@
-| title       |  permlink | layout  | entries_layout | classes|author_profile |
-| :-----------| :--------:| --------:|-----:|------- :| ---------|
-|  Post by Tag| /tags/  | tags   |    grid  | wide  | true   
+---
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
+entries_layout: grid
+classes: wide
+author_profile: true
+---
