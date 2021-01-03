@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pain is inevitable. Suffering is optional."
+title                    : "We are what we repeatedly do. Excellence, then, is not an act, but a habit.” – Aristotle."
 title_separator          : "-"
 name                     : "Jean-Leah Njoroge"
 description              : "Personal website."
@@ -97,8 +97,8 @@ analytics:
 # Site Author
 author:
   name             : "Jean-leah Njoroge"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Global Lead Sr Data Scientist at Dell"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Global Lead Data Scientist at Dell"
   location         : "Austin, TX"
   email            :
   uri              :
