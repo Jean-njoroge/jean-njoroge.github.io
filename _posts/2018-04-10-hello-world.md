@@ -5,7 +5,7 @@ date:   2020-01-02 16:16:01 -0600
 published: true
 tag: misc
 header:
-  teaser: /assets/images/avatar.png
+  #teaser: /assets/images/avatar.png
 ---
 Hello World, again! 
 
