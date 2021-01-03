@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
----
+--i-
 
 I am a trained engineer, and innately a problem solver. I thrive at the intersection of science, technology and engineering. Over the past decade, I have applied machine learning and Artificial intelligence in various sectors, Public and Private, as well as various domains new material development, patent mining, customer experience, manufacturing. Understanding and learning traditional sectors and business domains, methodologies, and frameworks, and then rethinking them for the Artificial Intelligence world is my Modus Operandi.
 
