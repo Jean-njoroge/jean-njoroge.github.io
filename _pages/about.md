@@ -1,15 +1,12 @@
----
-layout: page
-title: About
-permalink: /about/
---i-
+| layout    |  title | published| permlink | read_time|toc | toc_lable | 
+| :-------| :-----:| --------:|----------:|------- :| ----:|-------:| 
+| single| About  | true | /about/ | false | true | Table of Contents 
 
-I am a trained engineer, and innately a problem solver. I thrive at the intersection of science, technology and engineering. Over the past decade, I have applied machine learning and Artificial intelligence in various sectors, Public and Private, as well as various domains new material development, patent mining, customer experience, manufacturing. Understanding and learning traditional sectors and business domains, methodologies, and frameworks, and then rethinking them for the Artificial Intelligence world is my Modus Operandi.
+Experience
+* Director/Global Lead Data Scientist, [Dell Technologies](https://www.delltechnologies.com/en-us/solutions/artificial-intelligence/index.htm), 2018 - present
+* Machine Learning Fellow, [Insight Data Science](https://insightfellows.com/), 2017
+* Technical & Business Development Lead, [National Science Foundation Innovation Corp](https://www.nsf.gov/news/special_reports/i-corps/), 2017
+* New Venture Development & Engineering Sr Licensing Associate, [Texas A&M](https://techtransfer.tamus.edu/ForIndustry/Licensing.shtml), 2015 -2017
+* Office of Innovation & Computational Biochem Post Doc Fellow, UT Dallas & Arlington
+* Machine Learning Research Scientist Assistant-Material Science, Texas A&M
 
-However, my true superpower lies in my ability to span many different worlds and to help others transcend through the different worlds.  I have been able to work on “new to the world”, “new to the sector” and “new to the organization” products and innovations. I strongly believe that Machine Learning and Artificial intelligence will have a significant change in our society and the more people who understand and engage with Machine learning and Artificial intelligence the less there is to fear.
-
-I am easily excitable by new ideas and concepts. In my free time, you will find me reading a book, a paper, an article, or listening to a podcast on how our world is changing. In the same way that I love consuming new knowledge, I love sharing, because … “sharing is caring”. 
-I am a fierce advocate for Ethical AI and diversity and inclusion in STEM related fields. There is indisputable evidence of the significant value they both bring to society and business.
-
-
-#### My resume highlighting data science skills [CV]({{ site.baseurl }}/pd/Jean Njoroge-Resume.pdf).
